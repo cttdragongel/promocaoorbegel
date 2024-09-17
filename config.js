@@ -17,19 +17,19 @@ const produto = {
     avaliacoes: [
         {
             data: "03 mar. 2023",
-            texto: "É boa. Parece um banco de monza novo, confortável e pesada, construída com materiais muito bons. Custa o preço de um rim, mas vale a pena. Recomendo muito. Pra quem tem dúvidas, procura no youtube um review."
+            texto: "A arminha é boa, gostei demais e ja to brincando com meus filhos. Recomendo muito. Pra quem tem dúvidas, procura no youtube um review."
         },
         {
             data: "04 abr. 2024",
-            texto: "A cadeira é amplamente elogiada pelo conforto, qualidade de construção e design atraente, além de atender aos requisitos de segurança e ergonomia."
+            texto: "Eu amei, obrigado pelo brinde"
         },
         {
             data: "08 set. 2024",
-            texto: "Gostei demais, vou comprar para meus primos depois obrigado"
+            texto: "Meu filho adorou, ele queria ate mais duas chegou supoer rápido"
         },
         {
             data: "22 jan. 2024",
-            texto: "A cadeira é bonita, confortável, porém veio com um defeito próximo a costura na parte de trás, fora isso, será útil nos trabalhos em home office."
+            texto: "A arminha de gel é boa e durou viu, gostei muito"
         }
     ]
 }
